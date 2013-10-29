@@ -1,9 +1,9 @@
-# [AngularJS BoilerPlate]
+# Angular Directive for HookJS
 
 Built on top of [http://html5boilerplate.com](http://html5boilerplate.com)
+AngularJS Directive for [http://usehook.com/](http://usehook.com/)
 
-
-## Features
+## Libraries
 
 * Twitter Bootstrap v 3 
 * AngularJS 1.2.0 rc3
