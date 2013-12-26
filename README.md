@@ -16,3 +16,7 @@ AngularJS Directive for [http://usehook.com/](http://usehook.com/)
 
 In Progress
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/frozonfreak/hookjs-angular-directive/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
